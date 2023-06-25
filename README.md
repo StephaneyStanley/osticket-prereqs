@@ -1,4 +1,4 @@
-# osticket-prereqs<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+# osticket-prereqs<h1>Hi, I'm Stephaney , an <a href="https://linkedin.com/in/StephaneyStanley</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
